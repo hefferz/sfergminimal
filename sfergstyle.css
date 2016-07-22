@@ -1,0 +1,32 @@
+
+body {
+    /*background-image: url("seanground.jpg");*/
+	background-color: #000000;
+	background-size: cover;
+}
+
+#pagewrap {
+	width: 100%;
+	background-color: #ffffff;
+}
+
+#mainbanner {
+	height: 120px;
+	width: 100%;
+	background-color: #fffff;
+}
+
+#footer {
+	background-color: #ffffff;
+}
+
+#mainbody {
+	height: 1472px;
+	width: 2136;
+	background-image: url("seanground.jpg");
+}
+
+#divider {
+	height: 10px;
+	background-color: #000000;
+}
