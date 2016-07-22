@@ -5,6 +5,8 @@ body {
 	background-size: cover;
 }
 
+#
+
 #pagewrap {
 	width: 100%;
 	background-color: #ffffff;
@@ -13,7 +15,7 @@ body {
 #mainbanner {
 	height: 120px;
 	width: 100%;
-	background-color: #fffff;
+	background-color: #3f3f3f;
 }
 
 #footer {
